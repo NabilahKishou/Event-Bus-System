@@ -1,0 +1,10 @@
+{
+    "name": "com.nabilahkishou.eventbussystem",
+    "version": "1.0.0",
+    "displayName": "Event Bus System",
+    "description": "Simple Event Bus system with string directory",
+    "unity": "2020.1",
+    "author": {
+      "name": "Septian Nabilah"
+    }
+  }
